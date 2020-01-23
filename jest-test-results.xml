@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="0" failures="0" time="3.997">
+<testsuites name="jest tests" tests="1" failures="0" time="3.652">
+  <testsuite name="src\App.test.js" errors="0" failures="0" skipped="0" timestamp="2020-01-23T12:10:00" time="1.581" tests="1">
+    <testcase classname="-adds 1 + 2 to equal 3" name="-adds 1 + 2 to equal 3" time="0.003">
+    </testcase>
+  </testsuite>
 </testsuites>
